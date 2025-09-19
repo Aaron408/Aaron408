@@ -26,9 +26,9 @@ const aaron = {
     location: "Mexico 🇲🇽",
     role: "Full Stack Developer",
     education: "Computer Science Student",
-    interests: ["Web Development", "Mobile Apps", "Game Development", "IoT"],
-    currentlyLearning: ["Advanced React Patterns", "DevOps", "Cloud Architecture"],
-    funFact: "I love turning coffee into code ☕➡️💻",
+    languages: ["Spanish", "English"],
+    interests: ["Web Development", "Mobile Apps"],
+    currentlyLearning: ["Games development", "Cloud Architecture", "French"],
     openToWork: true
 };
 ```
