@@ -49,7 +49,9 @@ const aaron = {
 
 ### 📱 Mobile Development
 <p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,android,reactnative" alt="Mobile Skills" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio" alt="Mobile Skills" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" alt="android" width="40" height="40"/>
+  <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
 </p>
 
 ### 🗄️ Databases
