@@ -68,7 +68,6 @@ const aaron = {
 
 <div align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=aaron408&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=aaron408&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
@@ -85,14 +84,14 @@ const aaron = {
   <img src="https://github-profile-trophy.vercel.app/?username=aaron408&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
-## 🌟 Featured Projects
+<!-- ## 🌟 Featured Projects
 
 <div align="center">
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaron408&repo=your-awesome-project&theme=radical&hide_border=true)](https://github.com/aaron408/your-awesome-project)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=aaron408&repo=another-cool-project&theme=radical&hide_border=true)](https://github.com/aaron408/another-cool-project)
 
-</div>
+</div> -->
 
 ## 📈 Weekly Development Breakdown
 
@@ -103,18 +102,9 @@ const aaron = {
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-  [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-portfolio.com)
-  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-  
-</div>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  
-  ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aaron-reyes-ruiz-8656b22b4/)
+  [![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https:/aaron-reyes-portfolio.digitallsoftwaresolutions.com)
+  [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:reruaarr@gmail.com)
   
 </div>
 
@@ -122,7 +112,11 @@ const aaron = {
 
 <div align="center">
   
-  ![Snake animation](https://github.com/aaron408/aaron408/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/aaron408/aaron408/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/aaron408/aaron408/blob/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://github.com/aaron408/aaron408/blob/output/github-contribution-grid-snake.svg">
+  </picture>
   
 </div>
 
@@ -130,7 +124,7 @@ const aaron = {
 
 <div align="center">
   
-  ### 💬 "Code is like humor. When you have to explain it, it's bad." - Cory House
+  ### 💬 "Code is like humor. When you have to explain it, it's bad."
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
   
